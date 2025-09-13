@@ -1,0 +1,53 @@
+/* Estilos para cada estado */
+.containerStyle0 {
+  padding: 20px;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+.containerStyle1 {
+  padding: 20px;
+  background-color: #d0f0ff;
+  text-align: center;
+}
+
+.containerStyle2 {
+  padding: 20px;
+  background-color: #f0d0ff;
+  text-align: center;
+}
+
+/* Texto */
+.textStyle0 {
+  color: black;
+  font-size: 16px;
+}
+
+.textStyle1 {
+  color: blue;
+  font-size: 18px;
+}
+
+.textStyle2 {
+  color: purple;
+  font-size: 20px;
+}
+
+/* Botón */
+.buttonStyle0 {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.buttonStyle1 {
+  padding: 12px;
+  border: 2px solid blue;
+  border-radius: 12px;
+}
+
+.buttonStyle2 {
+  padding: 14px;
+  border: 2px solid purple;
+  border-radius: 50px;
+}
