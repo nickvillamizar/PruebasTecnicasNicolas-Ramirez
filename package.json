@@ -6,6 +6,7 @@
   "scripts": {
     "lint": "eslint src --ext .ts,.tsx",
     "dev": "vite",
+    "build": "vite build",
     "format": "prettier --write .",
     "test": "vitest",
     "test:ui": "vitest --ui"
